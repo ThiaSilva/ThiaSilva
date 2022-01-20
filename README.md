@@ -1,0 +1,2 @@
+- ✌ Hi, I’m Thiago Carvalho
+- 💻 I'm  study Information Systems and JavaScript
