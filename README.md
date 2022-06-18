@@ -1,3 +1,3 @@
 - ✌ Hello welcome to my profile! 
 
-- 💻 I'm study Information Systems and Java. 
+- 💻 I'm study Information Systems and developement android. 
