@@ -2,7 +2,7 @@
     <h1> Olá!!! Eu sou o Thiago 👋 </h1>
     <h2> Seja muito Bem vindo ao meu Perfil.</h2>
     <p> Sou Thiago Carvalho, desenvolvedor fullStack em desenvolvimento.</p>
-    <p> Sou apaixonado por desenvolvimento e UX | UI. </p></p>
+    <p> Sou apaixonado por desenvolvimento BackEnd e arquiteturas de software. </p></p>
 </div>
 
 ##
