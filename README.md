@@ -1,9 +1,8 @@
 <div>
     <h1> Olá!!! Eu sou o Thiago 👋 </h1>
     <h2> Seja muito Bem vindo ao meu Perfil.</h2>
-    <p> Sou Thiago Carvalho, UX / UI Design.</p>
-    <p> Sou apaixonado por pesquisas e desenvolvimento, amo criar layouts e surpreender pessoas com novas formas de pensar em UI designer. </p>
-    <p> Sou criativo e amo pensar fora da caixa, e deixar minha menter imaginar e dar vida aos meus pensamentos.</p>
+    <p> Sou Thiago Carvalho, DevOps/FinOps </p>
+    <p> Sou apaixonado tecnologias e tendencias tech, no momento estou aprimorando meus conhecimentos em DevOps e Cloud. </p>
 </div>
 
 ##
@@ -16,10 +15,11 @@
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thia-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Thia-xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg">
+  <img align="center" alt="Thia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg">
+  <img align="center" alt="Thia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Thia-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Thia-xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Thia-xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
 </div>
   
   ##
