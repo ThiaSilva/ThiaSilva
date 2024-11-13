@@ -14,7 +14,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python3/python3-plain.svg">
+  <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 
 </div>
   
