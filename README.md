@@ -1,8 +1,8 @@
 <div>
     <h1> Olá!!! Eu sou o Thiago 👋 </h1>
     <h2> Seja muito Bem vindo ao meu Perfil.</h2>
-    <p> Sou Thiago Carvalho, DevOps/FinOps </p>
-    <p> Sou apaixonado tecnologias e tendencias tech, no momento estou aprimorando meus conhecimentos em DevOps e Cloud. </p>
+    <p> Sou Thiago Carvalho </p>
+    <p> Sou apaixonado tecnologias e tendencias tech, no momento estou aprimorando meus conhecimentos em FrontEnd e UI/UX. </p>
 </div>
 
 ##
@@ -14,7 +14,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
   
