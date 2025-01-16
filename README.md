@@ -18,6 +18,7 @@
   <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
+    <img https://www.flaticon.com/br/icone-gratis/figma_5968705?term=figma&page=1&position=2&origin=search&related_id=5968705>
 </div>
   
   ##
