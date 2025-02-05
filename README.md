@@ -2,7 +2,7 @@
     <h1> Olá!!! Eu sou o Thiago 👋 </h1>
     <h2> Seja muito Bem vindo ao meu Perfil.</h2>
     <p> Sou Thiago Carvalho </p>
-    <p> Sou apaixonado tecnologias e tendencias tech, no momento estou aprimorando meus conhecimentos em BackEnd e DevOps. </p>
+    <p> Sou apaixonado tecnologias e tendencias tech, no momento estou aprimorando meus conhecimentos Programação. </p>
 </div>
 
 ##
