@@ -1,8 +1,7 @@
 <div>
     <h1> Olá!!! Eu sou o Thiago 👋 </h1>
     <h2> Seja muito Bem vindo ao meu Perfil.</h2>
-    <p> Sou Thiago Carvalho </p>
-    <p> Sou apaixonado tecnologias e tendencias tech, no momento estou aprimorando meus conhecimentos Programação. </p>
+    <p> Sou apaixonado tecnologias e tendencias tech, no momento estou aprimorando meus conhecimentos programação <strong>BackEnd</strong> com. </p>
 </div>
 
 ##
@@ -23,7 +22,7 @@
     <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-    <img align="center" alt="Thia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+
  
 </div>
   
