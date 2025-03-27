@@ -20,9 +20,10 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgree" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgree" alt="postgresql" width="40" height="40"/></a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="typescript" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://www.kubernetes.org/" target="_blank" rel="noreferrer"> <img src="kubernetes" alt="kubernetes" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=not-a-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
