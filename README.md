@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 Current Endeavors<br>I'm currently a fullstack developer. Here's what I'm currently focused on:<br>-🌱 I'm engaged in exciting fullstack projects.<br>-⚡I'm exploring different tools and libraries to enhance my skill set.<br>
+
+Português
+
+Bem-vindo!
+Sou Thiago, formado em Sistemas de informação, apaixonado por técnologia. 
+Atualmente estou desenvolvendo minhas habilidades e conhecimentos em desenvolvimento back end e devops.
+Fique a vontade de dar uma olhada em meus projetos!
+
+Inglês
+
+Welcome!
+I'm Thiago, I have a degree in Information Systems and I'm passionate about technology.
+I'm currently developing my skills and knowledge in backend development and devops.
+Feel free to take a look at my projects!
+
+
 
 
 ## 🌐 Socials:
