@@ -28,4 +28,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThiaSilva&show_icons=true&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaSilva&layout=donut-vertical&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaSilva&layout=donut&theme=radical)
