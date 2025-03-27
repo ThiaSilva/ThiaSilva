@@ -27,5 +27,5 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThiaSilva&theme=dark_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaSilva&theme=dark_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ThiaSilva&show_icons=true&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaSilva&layout=donut-vertical&theme=radical)
